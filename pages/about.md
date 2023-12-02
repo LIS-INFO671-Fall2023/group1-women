@@ -25,7 +25,11 @@ Our collection, “American Women in the 20th Century,” is the culmination of 
  Our collection was created with the aim of presenting a pictorial perspective of women's activities and career opportunities throughout the 20th century. In this collection, the available images allow us to analyze and explore the various career ideas and activities carried out by women. We hope that this collection helps to better understand the vital role of women in the creation and transformation of work environments. Potential users include historians, students, and anyone interested in women’s rights, labor movements, and those interested in photos or history.
 
 References
+
 Bureau of Economic Analysis. (2012). What is the Value of Household Work? Retrieved Dec 2, 2023 from https://www.bea.gov/news/blog/2012-06-11/what-value-household-work#:~:text=New%20research%20by%20the%20Bureau,the%20U.S.%20economy%20in%202010.
+
 Hsu, A. (2023). Women are earning more money. But they're still picking up a heavier load at home. NPR. Retrieved Dec 2, 2023, from https://www.npr.org/2023/04/13/1168961388/pew-earnings-gender-wage-gap-housework-chores-child-care.
+
 National Archives. (n.d.). Women in the Work Force during World War II. Retrieved Dec 2, 2023, from https://www.archives.gov/education/lessons/wwii-women.html#:~:text=After%20the%20war%2C%20most%20women,workforce%20became%20a%20common%20sight.
+
 Yellen, J. (2020). The history of women's work and wages and how it has created success for us all. Retrieved Dec 2, 2023, from https://www.brookings.edu/articles/the-history-of-womens-work-and-wages-and-how-it-has-created-success-for-us-all/.
