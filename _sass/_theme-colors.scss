@@ -9,6 +9,7 @@
 $white:    #fff !default;
 $black:    #000 !default;
 $primary:       #0d6efd !default;
+background color: #aaf0d1;
 
 $min-contrast-ratio:   4.5 !default;
 $color-contrast-dark:      $black !default;
@@ -151,7 +152,7 @@ $_luminance-list: .0008 .001 .0011 .0013 .0015 .0017 .002 .0022 .0025 .0027 .003
     ) {
 
     color: $color;
-    background-color: $background;
+   
     border-color: $border;
 
     &:hover {
