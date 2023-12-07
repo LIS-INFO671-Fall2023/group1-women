@@ -3,7 +3,8 @@ primary, #795695
 secondary,
 success,
 info,
-warning,#aaf0d1
+warning,
 danger,
 light,
 dark,
+newcolor,#aaf0d1
