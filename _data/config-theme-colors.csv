@@ -4,6 +4,6 @@ secondary,
 success,
 info,
 warning,
-danger,
-light,#aaf0d1
+danger,#aaf0d1
+light,
 dark,
