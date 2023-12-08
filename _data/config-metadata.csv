@@ -8,16 +8,16 @@ subject,Subjects,true,
 location,Location,,
 latitude,Latitude,,
 longitude,Longitude,,
+dpla_record,DPLA Record,,true
+dpla_collection,DPLA Collection,,true
+source_record,Digital Surrogate Record,,true
+digital_surrogate_provenance,Digital Surrogate Provenance,,
+photograph_provenance,Photograph Provenance,,
+rights,Rights,,
+rightsstatement,Rights Statement,,true
 identifier,Source Identifier,,
 type,Type,,
 format,Format,,
-rights,Rights,,
-rightsstatement,Rights Statement,,true
-dpla_record,DPLA Record,,true
-dpla_collection,DPLA Collection,,true
-digital_surrogate_provenance,Digital Surrogate Provenance,,
-source_record,Digital Surrogate Record,,true
-original_digital_collection, Digital Surrogate Collection,,true
-photograph_provenance,Photograph Provenance,,
 file_size,File Size,,
 image_dimensions,Image Dimensions,,
+original_digital_collection, Digital Surrogate Collection,,true
