@@ -29,7 +29,7 @@ permalink: /schema.html
 &nbsp;<br>
 
 | Term Name | description |
-| --- | --- |
+| --- | :---: |
 | Label | Description |
 | Definition | A description of that which is depicted in the physical photograph. |
 | Comment | This description is very brief–typically only one sentence in length, two maximum–and describes the particular scene depicted in the photograph, without going into details about the general context of the scene depicted. |
