@@ -5,7 +5,7 @@ permalink: /schema.html
 ---
 
 | Term Name | creator |
-| --- | --- |
+| ----- | --- |
 | Label | Creator |
 | Definition | The name of the photographer or company that created the physical photograph. |
 | Comment | None |
