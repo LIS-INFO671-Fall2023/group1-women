@@ -1,5 +1,5 @@
 ---
 title: Metadata Schema
-layout: schema
+layout: about
 permalink: /schema.html
 ---
