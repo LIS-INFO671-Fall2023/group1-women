@@ -14,6 +14,7 @@ permalink: /schema.html
 | Metadata Type | Descriptive |
 | Related DC Term | creator (http://purl.org/dc/elements/1.1/creator) |
 
+&nbsp;<br>
 
 | Term Name | date |
 | --- | --- |
