@@ -12,7 +12,7 @@ permalink: /schema.html
 | Required | Yes |
 | Repeatable | No |
 | Metadata Type | Descriptive |
-| Related DC Term | creator (http://purl.org/dc/elements/1.1/creator) |
+| Related DC | creator (http://purl.org/dc/elements/1.1/creator) |
 
 &nbsp;<br>
 
@@ -24,16 +24,20 @@ permalink: /schema.html
 | Required | Yes |
 | Repeatable | No |
 | Metadata Type | Descriptive |
-| Related DC Term | created (http://purl.org/dc/terms/created) |
+| Related DC | created (http://purl.org/dc/terms/created) |
 
 &nbsp;<br>
 
-| Term Name     | description                                                                                                                                                                                                                  |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Label         | Description                                                                                                                                                                                                                  |
-| Definition    | A description of that which is depicted in the physical photograph.                                                                                                                                                          |
-| Comment       | This description is very brief–typically only one sentence in length, two maximum–and describes the particular scene depicted in the photograph, without going into details about the general context of the scene depicted. |
-| Required      | Yes                                                                                                                                                                                                                          |
-| Repeatable    | No                                                                                                                                                                                                                           |
-| Metadata Type | Descriptive                                                                                                                                                                                                                  |
-| Related DC    | description (http://purl.org/dc/elements/1.1/description)  
+| Term Name | description |
+| --- | --- |
+| Label | Description |
+| Definition | A description of that which is depicted in the physical photograph. |
+| Comment | This description is very brief–typically only one sentence in length, two maximum–and describes the particular scene depicted in the photograph, without going into details about the general context of the scene depicted. |
+| Required | Yes |
+| Repeatable | No |
+| Metadata Type | Descriptive |
+| Related DC | description (http://purl.org/dc/elements/1.1/description) |
+
+
+
+
