@@ -49,16 +49,12 @@ permalink: /schema.html
 
 &nbsp;<br>
 
-&nbsp;<br>
-
 | Term Name: | &nbsp; subject |
 | --- | --- |
 | Label | &nbsp; Subjects |
 | Definition | &nbsp; The subject matter that is depicted by the physical photograph.|
 | Type | &nbsp; Descriptive |
 | Related DC | &nbsp; subject (http://purl.org/dc/terms/subject)|
-
-&nbsp;<br>
 
 &nbsp;<br>
 
@@ -125,121 +121,59 @@ permalink: /schema.html
 
 &nbsp;<br>
 
-| Term Name: | &nbsp; creator |
+| Term Name: | &nbsp; photograph_provenance |
 | --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+| Label | &nbsp; Photograph Provenance |
+| Definition | &nbsp; The name of the repository that holds the physical photograph.|
+| Type | &nbsp; Administrative (provenance) |
+| Related DC | &nbsp; provenance (http://purl.org/dc/terms/provenance)|
 
 &nbsp;<br>
 
-| Term Name: | &nbsp; creator |
+| Term Name: | &nbsp; rights |
 | --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+| Label | &nbsp; Rights |
+| Definition | &nbsp; The rights that belong to the digital surrogate of the physical photograph.|
+| Type | &nbsp; Administrative (rights)|
+| Related DC | &nbsp; rights (http://purl.org/dc/terms/rights)|
 
 &nbsp;<br>
 
-| Term Name: | &nbsp; creator |
+| Term Name: | &nbsp; format |
 | --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+| Label | &nbsp; Format |
+| Definition | &nbsp; The format of the image file of the digital surrogate of the physical photograph. This digital surrogate is found in the primary record of the physical photograph.|
+| Type | &nbsp; Technical |
+| Related DC | &nbsp; format (http://purl.org/dc/elements/1.1/format)|
 
 &nbsp;<br>
 
-| Term Name: | &nbsp; creator |
+| Term Name: | &nbsp; file_size |
 | --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+| Label | &nbsp; File Size |
+| Definition | &nbsp; The size of the image file of the digital surrogate of the physical photograph.|
+| Type | &nbsp; Technical |
+| Related DC | &nbsp; extent (http://purl.org/dc/terms/extent)|
 
 &nbsp;<br>
 
-| Term Name: | &nbsp; creator |
+| Term Name: | &nbsp; image_dimensions |
 | --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+| Label | &nbsp; Image Dimensions |
+| Definition | &nbsp; The dimensions of the image that serves as the digital surrogate of the physical photograph, specified in pixels.|
+| Type | &nbsp; Technical |
+| Related DC | &nbsp; format (http://purl.org/dc/elements/1.1/format)|
 
 &nbsp;<br>
 
-| Term Name: | &nbsp; creator |
+| Term Name: | &nbsp; original_digital_collection |
 | --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+| Label | &nbsp; Digital Surrogate Collection |
+| Definition | &nbsp; The name of the digital collection to which the primary record of the physical photograph belongs. This digital collection can be found on the website of the main digital repository that hosts the digital surrogate of the physical photograph.|
+| Type | &nbsp; Structural |
+| Related DC | &nbsp; isPartOf (http://purl.org/dc/terms/isPartOf)|
 
 &nbsp;<br>
 
-| Term Name: | &nbsp; creator |
-| --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
-
-&nbsp;<br>
-
-| Term Name: | &nbsp; creator |
-| --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
-
-&nbsp;<br>
-
-| Term Name: | &nbsp; creator |
-| --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
-
-&nbsp;<br>
-
-| Term Name: | &nbsp; creator |
-| --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
-
-&nbsp;<br>
-
-| Term Name: | &nbsp; creator |
-| --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
-
-&nbsp;<br>
-
-| Term Name: | &nbsp; creator |
-| --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
-
-&nbsp;<br>
-
-| Term Name: | &nbsp; creator |
-| --- | --- |
-| Label | &nbsp; Creator |
-| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
-| Type | &nbsp; Descriptive |
-| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
-
-&nbsp;<br>
 
 
