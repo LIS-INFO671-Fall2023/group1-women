@@ -4,7 +4,7 @@ layout: about
 permalink: /schema.html
 ---
 
-| Term Name: | creator |
+| Term Name: | &nbsp; creator |
 | --- | --- |
 | Label | Creator |
 | Definition | The name of the photographer or company that created the physical photograph. |
@@ -24,7 +24,7 @@ permalink: /schema.html
 | Required | Yes |
 | Repeatable | No |
 | Type | Descriptive |
-| Related DC | created (http://purl.org/dc/terms/created) |
+| Related DC | &nbsp; created (http://purl.org/dc/terms/created) |
 
 &nbsp;<br>
 
