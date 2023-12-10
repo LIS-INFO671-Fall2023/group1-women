@@ -40,7 +40,7 @@ permalink: /schema.html
 
 &nbsp;<br>
 
-<table>
+<table style="width: 50%">
   <tr>
     <th>Company</th>
     <th>Contact</th>
