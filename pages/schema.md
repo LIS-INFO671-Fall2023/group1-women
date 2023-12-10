@@ -142,7 +142,7 @@ permalink: /schema.html
 | Term Name: | &nbsp; format |
 | --- | --- |
 | Label | &nbsp; Format |
-| Definition | &nbsp; The format of the image file of the digital surrogate of the physical photograph. This digital surrogate is found in the primary record of the physical photograph.|
+| Definition | &nbsp; The format of the image file of the digital surrogate of the physical photograph.|
 | Type | &nbsp; Technical |
 | Related DC | &nbsp; format (http://purl.org/dc/elements/1.1/format)|
 
@@ -169,7 +169,7 @@ permalink: /schema.html
 | Term Name: | &nbsp; original_digital_collection |
 | --- | --- |
 | Label | &nbsp; Digital Surrogate Collection |
-| Definition | &nbsp; The name of the digital collection to which the primary record of the physical photograph belongs. This digital collection can be found on the website of the main digital repository that hosts the digital surrogate of the physical photograph.|
+| Definition | &nbsp; The name of the digital collection to which the primary record of the physical photograph belongs.|
 | Type | &nbsp; Structural |
 | Related DC | &nbsp; isPartOf (http://purl.org/dc/terms/isPartOf)|
 
