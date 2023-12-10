@@ -6,13 +6,10 @@ permalink: /schema.html
 
 | Term Name: | &nbsp; creator |
 | --- | --- |
-| Label | Creator |
-| Definition | The name of the photographer or company that created the physical photograph. |
-| Comment | None |
-| Required | Yes |
-| Repeatable | No |
-| Type | Descriptive |
-| Related DC | creator (http://purl.org/dc/elements/1.1/creator) |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
 
 &nbsp;<br>
 
