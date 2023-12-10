@@ -4,7 +4,7 @@ layout: about
 permalink: /schema.html
 ---
 
-| Term Name | creator |
+| Term Name: | creator |
 | --- | --- |
 | Label | Creator |
 | Definition | The name of the photographer or company that created the physical photograph. |
@@ -16,7 +16,7 @@ permalink: /schema.html
 
 &nbsp;<br>
 
-| Term Name | date |
+| Term Name: | date |
 | --- | --- |
 | Label | Date Created |
 | Definition | The year the physical photograph was taken. |
@@ -28,7 +28,7 @@ permalink: /schema.html
 
 &nbsp;<br>
 
-| Term Name | date |
+| Term Name: | description |
 | --- | --- |
 | Label | Description |
 | Definition | A description of that which is depicted in the physical photograph. |
