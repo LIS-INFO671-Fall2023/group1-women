@@ -4,9 +4,6 @@ layout: about
 permalink: /schema.html
 ---
 
-The following is an abridged version of the documentation for our metadata schema, which specifies: (1) the term name of an element, (2) the label name of an element, (3) the definition or meaning of an element, (4) the type of metadata that an element expresses (e.g. administrative), and (5) the Dublin Core metadata element to which an element is most closely related. The full documentation can be accessed [here] (https://docs.google.com/document/d/13n9J5kISQOyZIlEzLL1HXY-EwUKGRlhY-8EWjzIacf4/edit?usp=sharing).
-
-&nbsp;<br>
 
 | Term Name: | &nbsp; title |
 | --- | --- |
