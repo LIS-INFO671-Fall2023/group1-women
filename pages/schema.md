@@ -4,6 +4,15 @@ layout: about
 permalink: /schema.html
 ---
 
+| Term Name: | &nbsp; title |
+| --- | --- |
+| Label | &nbsp; Title |
+| Definition | &nbsp; The title or name of the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; title (http://purl.org/dc/terms/title) |
+
+&nbsp;<br>
+
 | Term Name: | &nbsp; creator |
 | --- | --- |
 | Label | &nbsp; Creator |
@@ -13,67 +22,195 @@ permalink: /schema.html
 
 &nbsp;<br>
 
-| Term Name: | date |
+| Term Name: | &nbsp; date |
 | --- | --- |
-| Label | Date Created |
-| Definition | The year the physical photograph was taken. |
-| Comment | None |
-| Required | Yes |
-| Repeatable | No |
-| Type | Descriptive |
+| Label | &nbsp; Date |
+| Definition | &nbsp; The year the physical photograph was taken. |
+| Type | &nbsp; Descriptive |
 | Related DC | &nbsp; created (http://purl.org/dc/terms/created) |
 
 &nbsp;<br>
 
-| Term Name: | description |
+| Term Name: | &nbsp; description |
 | --- | --- |
-| Label | Description |
-| Definition | A description of that which is depicted in the physical photograph. |
-| Comment | This description is very brief (typically only one sentence in length, two maximum) and describes the particular scene depicted in the photograph, without going into details about the general context of the scene depicted. |
-| Required | Yes |
-| Repeatable | No |
-| Type | Descriptive |
-| Related DC | description (http://purl.org/dc/elements/1.1/description) |
+| Label | &nbsp; Description |
+| Definition | &nbsp; A description of that which is depicted in the physical photograph.|
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; description (http://purl.org/dc/elements/1.1/description)|
 
 &nbsp;<br>
 
-<table style="width: 50%">
-  <tr>
-    <th>Term Name</th>
-    <th>dpla_collection</th>
-  </tr>
-  <tr>
-    <td>Label</td>
-    <td>DPLA Collection</td>
-  </tr>
-  <tr>
-    <td>Definition</td>
-    <td>The name(s) of the DPLA collection(s) to which the secondary record of the physical photograph belongs.</td>
-  </tr>
-  <tr>
-    <td>Comment</td>
-    <td>Make the name of a DPLA collection a hyperlink that links to the DPLA collection on dp.la. If there are multiple DPLA collections associated with the secondary record, then separate the names of the collections with semicolons.</td>
-  </tr>
-  <tr>
-    <td>Required</td>
-    <td>Yes</td>
-  </tr>
-   <tr>
-    <td>Repeatable</td>
-    <td>Yes</td>
-  </tr>
-   <tr>
-    <td>Metadata Type</td>
-    <td>Descriptive</td>
-  </tr>
-    <tr>
-    <td>Related DCMI Term</td>
-    <td>isPartOf (http://purl.org/dc/terms/isPartOf)</td>
-  </tr>
-</table>
+| Term Name: | &nbsp; historical_Background |
+| --- | --- |
+| Label | &nbsp; Historical Background |
+| Definition | &nbsp; A brief overview of the historical background or context of the physical photograph.|
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; description (http://purl.org/dc/elements/1.1/description) |
 
-<br>
+&nbsp;<br>
 
+&nbsp;<br>
 
+| Term Name: | &nbsp; subject |
+| --- | --- |
+| Label | &nbsp; Subjects |
+| Definition | &nbsp; The subject matter that is depicted by the physical photograph.|
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; subject (http://purl.org/dc/terms/subject)|
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; dplaCollection |
+| --- | --- |
+| Label | &nbsp; DPLA Collection |
+| Definition | &nbsp; The name(s) of the DPLA collection(s) to which the secondary record of the physical photograph belongs.|
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; isPartOf (http://purl.org/dc/terms/isPartOf) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; dplaRecord |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
+
+| Term Name: | &nbsp; creator |
+| --- | --- |
+| Label | &nbsp; Creator |
+| Definition | &nbsp; The name of the photographer or company that created the physical photograph. |
+| Type | &nbsp; Descriptive |
+| Related DC | &nbsp; creator (http://purl.org/dc/elements/1.1/creator) |
+
+&nbsp;<br>
 
 
