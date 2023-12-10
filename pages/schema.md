@@ -42,21 +42,41 @@ permalink: /schema.html
 
 <table style="width: 50%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Term Name</th>
+    <th>dpla_collection</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Label</td>
+    <td>DPLA Collection</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Definition</td>
+    <td>The name(s) of the DPLA collection(s) to which the secondary record of the physical photograph belongs.</td>
+  </tr>
+  <tr>
+    <td>Comment</td>
+    <td>Make the name of a DPLA collection a hyperlink that links to the DPLA collection on dp.la. If there are multiple DPLA collections associated with the secondary record, then separate the names of the collections with semicolons.</td>
+  </tr>
+  <tr>
+    <td>Required</td>
+    <td>Yes</td>
+  </tr>
+   <tr>
+    <td>Repeatable</td>
+    <td>Yes</td>
+  </tr>
+   <tr>
+    <td>Metadata Type</td>
+    <td>Descriptive</td>
+  </tr>
+    <tr>
+    <td>Related DCMI Term</td>
+    <td>isPartOf (http://purl.org/dc/terms/isPartOf)</td>
   </tr>
 </table>
+
+<br>
+
 
 
 
